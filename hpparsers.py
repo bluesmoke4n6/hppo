@@ -7,8 +7,9 @@ from json2html import *
 r = hptemplates
 
 usefulitems = ['RealmAuthenticationInfo', 'RealmContact', 'RealmConversation', 'RealmFacemail',
-               'RealmHouse', 'RealmHouseAdd', 'RealmHouseMessage', 'RealmLocalContact', 'RealmNote',
-               'RealmParty', 'RealmPublicUser', 'RealmRelationshipInfo', 'RealmUser', 'RealmUserSettings']
+               'RealmHouse', 'RealmHouseAdd', 'RealmHouseItem', 'RealmHouseMessage', 'RealmLocalContact', 
+               'RealmNote', 'RealmParty', 'RealmPublicUser', 'RealmRelationshipInfo', 'RealmUser', 
+               'RealmUserSettings']
 
 
 def facemail(json_file='', outputdir=''):
