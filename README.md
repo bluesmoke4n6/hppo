@@ -13,7 +13,7 @@ Blog post with details: https://www.bluesmoke4n6.com/2020/05/get-your-red-solo-c
 
 ## Installation
 
-Pre-requisites:
+Prerequisites:
 Python 3
 
 To install dependencies, run:
